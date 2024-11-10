@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/nietzscheson/versioner/compare/v1.2.2...v1.3.0) (2024-11-10)
+
+
+### Features
+
+* Adding Skip commit ([569d67c](https://github.com/nietzscheson/versioner/commit/569d67c5da99c555fdb2d7b885a09ed766a8a0e1))
+
 ## [1.2.2](https://github.com/nietzscheson/versioner/compare/v1.2.1...v1.2.2) (2024-11-10)
 
 
