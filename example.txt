@@ -2,3 +2,4 @@ Initial
 
 - Adding new feature
 - Adding another feat
+- Adding feat2
