@@ -15,4 +15,5 @@ jobs:
           node-version: '20.8.1'
       - run: npm install -g semantic-release @semantic-release/git
       - run: semantic-release
-
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
