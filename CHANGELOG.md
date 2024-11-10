@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/nietzscheson/versioner/compare/v1.2.0...v1.2.1) (2024-11-10)
+
+
+### Bug Fixes
+
+* Adding a fix ([151c6cd](https://github.com/nietzscheson/versioner/commit/151c6cde8d89275cd416d3670f02ccabb2135f39))
+
 # [1.2.0](https://github.com/nietzscheson/versioner/compare/v1.1.0...v1.2.0) (2024-11-10)
 
 
