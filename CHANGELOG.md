@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/nietzscheson/versioner/compare/v1.1.0...v1.2.0) (2024-11-10)
+
+
+### Features
+
+* Adding feat2 ([89d8d61](https://github.com/nietzscheson/versioner/commit/89d8d615a98fb3a5c17cd1860ea0d2aeab499fbf))
+
 # [1.1.0](https://github.com/nietzscheson/versioner/compare/v1.0.0...v1.1.0) (2024-11-10)
 
 
