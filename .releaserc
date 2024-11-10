@@ -22,13 +22,6 @@
           "changelogFile": "CHANGELOG.md"
         }
       ],
-      [
-        "@semantic-release/git",
-        {
-          "assets": ["CHANGELOG.md"],
-          "skipCommit": true
-        }
-      ],
       "@semantic-release/github"
     ]
   }
