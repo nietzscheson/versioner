@@ -2,7 +2,6 @@
 ## Commit Types That Trigger a Version Release:
 - feat: Generates a minor version release (e.g., 1.1.0).
 - fix: Generates a patch version release (e.g., 1.0.1).
-- perf: Generates a patch version release (e.g., 1.0.1).
 - BREAKING CHANGE: Generates a major version release (e.g., 2.0.0).
 ## Commit Types That Do NOT Trigger a Version Release:
 - chore: For minor changes, maintenance, or updates that do not affect production code (e.g., dependency updates).
